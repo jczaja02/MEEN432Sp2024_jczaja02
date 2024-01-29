@@ -3,7 +3,7 @@ Project: Project 1 Part 1
 The simulink file is titled "P1_pt1.slx"
 The matlab file is titled "P1P1.m"
 
-Download the project folder and make that folder the new directory
+Download the project folder titled "Project1_Part1" and make that folder the new directory in MATLAB.
 
 By opening these files simultaneously and hitting run on the MATLAB script, the script and Simulink file will output 4 figures.
 
