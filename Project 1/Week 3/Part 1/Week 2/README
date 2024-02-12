@@ -1,0 +1,14 @@
+Week 2 Final
+
+Outputs
+- 166 Figures
+  - Figures 1-96 are for the fixed time step
+  - Figures 97-98 are for Max Simulation Error Vs Time Step per ODE Plotting
+  - Figures 99-100 are for CPU Simulated Time Vs Time Step per ODE Plotting
+  - Figures 101-102 are for Max Simulation Error Vs CPU Simulated Time per ODE Plotting
+  - Figures 103-166 are for variable time step
+
+Running instructions:
+
+Download all contents of the folder labeled Part 1/Week 2 and set the directory accordingly. Our code runs on one MATLAB script and two simulink models.
+Open all of the simulink files (P1_pt1_1.slx, P1_pt1_1_Variable.slx) and then run the code from the MATLAB script (Part_1_Final.m).
