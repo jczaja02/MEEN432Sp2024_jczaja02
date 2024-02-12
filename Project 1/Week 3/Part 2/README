@@ -1,0 +1,15 @@
+Part 2 Final
+
+Outputs
+- 40 Plots
+  - Plots 1-24 are for Option 1 fixed time step
+  - Plots 25-30 are for Option 1 variable time step
+  - Plots 31-38 are for Option 2 fixed time step
+  - Plots 39-40 are for Option 2 variable time step
+- Tabulated CPU times per simulation
+
+Running instructions:
+
+Download all contents of the folder labeled Part 2 and set the directory accordingly. Our code runs on one MATLAB script and four simulink models.
+Open all of the simulink files (Option1.slx, Option1_Variable.slx, Option2.slx, Option2_Variable.slx) and then run the code from the MATLAB script (Part2.m).
+
