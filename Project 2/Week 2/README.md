@@ -7,3 +7,6 @@ Throughout this week we went through all the function blocks to ensure that the 
 With the driver model, specifically the "Simplest Driver" function, we found that we needed to set delta to a positive number so that the car would continue around the 
 track and not go in the wrong direction. After correcting these errors we were able to get the car to complete a whole loop around the track without deviation at a speed 
 of 10 m/s.
+
+## Week 2 Feedback (5/5)
+It looks like the vehicle is not able to drive along the track without going out. This is most likely due to the simple driver model so I would advise to include some sort of lateral control that calculates the steering angle rather than setting it at some value. For the final submission, continue to work through the Simulink model and tweaking it so that you are able to stay on track and go around the track as fast as possible. Now that you have the Simulink model, you can animate the rectangular patch from week 1 using the car simulation data and animate the vehicle going around the race track. The team will also need to utilize the raceStat function somewhere in the MATLAB script to see how many loops the vehicle is able to do and to see information regarding the vehicle leaving the track.
